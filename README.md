@@ -126,7 +126,7 @@ sudo systemctl enable systemd-resolved
 sudo systemctl restart NetworkManager
 ```
 
-Ahora vamos a crear una carpeta en el directorio raíz preferiblemente de nuestro equipo, en donde tendremos alojados nuestros proyectos de Laravel:
+Ahora vamos a crear una carpeta en el directorio raíz de nuestro equipo, en donde tendremos alojados nuestros proyectos de Laravel:
 
 ```bash
 cd
