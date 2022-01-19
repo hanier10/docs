@@ -49,7 +49,7 @@ php -version
 ---
 
 ```bash
-sudo apt-get install curl
+sudo dnf install curl
 ```
 
 ```bash
