@@ -29,7 +29,7 @@ sudo dnf module install php:remi-7.4
 Instalando dependencias:
 
 ```bash
-sudo dnf install php-fpm php-cli php-curl php-mbstring php-xml php-zip php-pgsql php-gd php-soap php-json
+sudo dnf install php-fpm php-cli php-curl php-mbstring php-xml php-zip php-pgsql php-gd php-soap php-json php-ffi php-intl
 ```
 
 Actualizamos:
