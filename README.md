@@ -30,7 +30,7 @@ Instalando dependencias:
 sudo dnf install php-fpm php-cli php-curl php-mbstring php-xml php-zip php-pgsql php-gd php-soap php-json
 ```
 
-Actualizamos los paquetes:
+Actualizamos:
 
 ```bash
 sudo dnf update
