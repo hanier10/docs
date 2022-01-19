@@ -18,7 +18,7 @@ sudo dnf config-manager --set-enabled remi
 sudo  dnf module reset php
 ```
 
-Instalando PHP:
+Instalando PHP 7.4:
 
 ```bash
 sudo dnf module install php:remi-7.4
